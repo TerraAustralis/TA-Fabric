@@ -1,0 +1,3 @@
+defaults
+defaultExtensions
+	^ TAFabricExtension defaultExtensions

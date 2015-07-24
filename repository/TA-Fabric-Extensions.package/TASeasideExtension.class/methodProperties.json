@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"applicationClass" : "jupiter 6/12/2015 19:33",
+		"getTextDomain" : "jupiter 6/12/2015 19:36",
+		"isAbstract" : "jupiter 6/14/2015 19:45",
+		"rootComponentClass" : "jupiter 6/12/2015 20:33",
+		"sessionClass" : "jupiter 6/12/2015 19:34",
+		"uri" : "jupiter 6/12/2015 16:23" },
+	"instance" : {
+		"configureApplication:" : "jupiter 6/12/2015 21:20",
+		"disable" : "jupiter 6/12/2015 20:17",
+		"enable" : "jupiter 6/12/2015 20:17",
+		"initialize" : "jupiter 6/12/2015 20:20",
+		"installUserInterface" : "jupiter 6/12/2015 19:33",
+		"removeUserInterface" : "jupiter 6/12/2015 20:12",
+		"rootComponentClass" : "jupiter 6/12/2015 21:09" } }

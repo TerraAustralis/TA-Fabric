@@ -1,0 +1,3 @@
+enable / disable
+isEnabled
+	^enabled

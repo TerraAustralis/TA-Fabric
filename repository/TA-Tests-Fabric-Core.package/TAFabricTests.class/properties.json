@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Tests-Fabric-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAFabricTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

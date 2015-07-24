@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"License" : "jupiter 6/9/2015 20:41",
+		"clearLicense" : "jupiter 6/9/2015 20:35",
+		"loadLicense" : "jupiter 6/13/2015 08:09" },
+	"instance" : {
+		"initialize" : "jupiter 6/9/2015 20:49",
+		"isValid" : "jupiter 6/9/2015 20:19",
+		"nodeContact" : "jupiter 6/9/2015 21:12",
+		"nodeContactEmail" : "jupiter 6/9/2015 21:12",
+		"nodeName" : "jupiter 6/9/2015 21:12",
+		"owner" : "jupiter 6/9/2015 20:19",
+		"owner:sunsetDate:" : "jupiter 6/9/2015 20:19",
+		"propertyAt:" : "jupiter 6/9/2015 20:38",
+		"propertyAt:put:" : "jupiter 6/9/2015 20:47",
+		"sunsetDate" : "jupiter 6/9/2015 20:19" } }

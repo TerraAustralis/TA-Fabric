@@ -1,0 +1,16 @@
+{
+	"category" : "TA-Fabric-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node",
+		"enabled",
+		"model" ],
+	"name" : "TAFabricExtension",
+	"pools" : [
+		 ],
+	"super" : "TAObject",
+	"type" : "normal" }

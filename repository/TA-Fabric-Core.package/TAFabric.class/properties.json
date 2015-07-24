@@ -1,0 +1,17 @@
+{
+	"category" : "TA-Fabric-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"instance" ],
+	"commentStamp" : "jupiter 6/10/2015 09:40",
+	"instvars" : [
+		"license",
+		"extensionRepository",
+		"nodes",
+		"announcer" ],
+	"name" : "TAFabric",
+	"pools" : [
+		 ],
+	"super" : "TAFabricNode",
+	"type" : "normal" }

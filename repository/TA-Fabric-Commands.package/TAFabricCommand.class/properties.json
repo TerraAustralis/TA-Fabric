@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Fabric-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TAFabricCommand",
+	"pools" : [
+		 ],
+	"super" : "TACommand",
+	"type" : "normal" }

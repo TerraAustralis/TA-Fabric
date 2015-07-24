@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTAFabric",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTAFabric",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

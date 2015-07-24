@@ -1,0 +1,14 @@
+{
+	"category" : "TA-Fabric-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TASeasideExtension",
+	"pools" : [
+		 ],
+	"super" : "TAFabricExtension",
+	"type" : "normal" }

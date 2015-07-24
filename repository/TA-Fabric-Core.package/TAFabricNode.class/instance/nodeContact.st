@@ -1,0 +1,3 @@
+accessing
+nodeContact
+	^ nodeContact

@@ -1,0 +1,16 @@
+{
+	"category" : "TA-Fabric-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"License" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"sunsetDate",
+		"properties" ],
+	"name" : "TAFabricLicense",
+	"pools" : [
+		 ],
+	"super" : "TAIdentifiableObject",
+	"type" : "normal" }

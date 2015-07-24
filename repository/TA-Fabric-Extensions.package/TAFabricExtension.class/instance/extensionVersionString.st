@@ -1,0 +1,3 @@
+accessing
+extensionVersionString
+	^self class extensionVersionString 

@@ -1,0 +1,22 @@
+{
+	"category" : "TA-Fabric-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"ipAddress",
+		"port",
+		"nodeName",
+		"nodeOwner",
+		"nodeContact",
+		"nodeContactEmail",
+		"roles",
+		"extensions" ],
+	"name" : "TAFabricNode",
+	"pools" : [
+		 ],
+	"super" : "TAIdentifiableObject",
+	"type" : "normal" }

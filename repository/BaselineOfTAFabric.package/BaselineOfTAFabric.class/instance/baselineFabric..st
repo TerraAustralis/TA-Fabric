@@ -8,7 +8,7 @@ baselineFabric: spec
 				package: 'TA-Fabric-Commands';
 				package: 'TA-Fabric-Extensions';
 				package: 'TA-Fabric-Core'
-					with: [ spec requires: #('TerraAustralisKernel' 'TA-Fabric-Announcements' 'TA-Fabric-Commands' 'TA-Fabric-Extensions') ].
+					with: [ spec requires: #('TAKernel' 'TA-Fabric-Announcements' 'TA-Fabric-Commands' 'TA-Fabric-Extensions') ].
 			spec
 				package: 'TA-Tests-Fabric-Core' with: [ spec requires: #('TA-Fabric-Core') ];
 				package: 'TA-Tests-Fabric-Commands' with: [ spec requires: #('TA-Fabric-Commands') ];

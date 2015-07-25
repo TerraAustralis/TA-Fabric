@@ -5,7 +5,7 @@ baselineFabric: spec
 		do: [ 
 			spec
 				package: 'TA-Fabric-Announcements';
-				package: 'TA-Fabric-Commands';
+				package: 'TA-Fabric-Commands' with: [ spec requires: #('TACommand') ];
 				package: 'TA-Fabric-Extensions';
 				package: 'TA-Fabric-Core'
 					with: [ spec requires: #('TAKernel' 'TA-Fabric-Announcements' 'TA-Fabric-Commands' 'TA-Fabric-Extensions') ].

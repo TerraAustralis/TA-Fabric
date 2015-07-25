@@ -1,4 +1,5 @@
 baselines
 baselineProjects: spec
 	self
-		projectKernel: spec
+		projectKernel: spec;
+		projectCommand: spec
